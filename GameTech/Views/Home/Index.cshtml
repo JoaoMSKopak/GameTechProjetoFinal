@@ -1,0 +1,17 @@
+﻿@model GameTech.Models.Usuario
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @ViewBag.Mensagem @User.Identity.Name
+    @Html.HiddenFor(model => model.UsuarioId)
+</p>
+
+@Html.ActionLink("Logar","Login")
+@Html.ActionLink("Cadastrar-se","Create")
+@Html.ActionLink("Editar Cadastro","Editar")
+
+<a href="@Url.Action("LogOut","Home")">Sair</a>
