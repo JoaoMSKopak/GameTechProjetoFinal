@@ -1,17 +1,31 @@
 ﻿@model GameTech.Models.Usuario
 @{
-    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home";
 }
+<head>
+<h2 style="color:white; font-size:40px; margin-left:450px">Game&Tech</h2>
+@*<link rel="stylesheet" type="text/css" href="estilo.css" />*@
+</head>
 
-<h2>Index</h2>
-
+<body>
+<div style="color:white">
 <p>
     @ViewBag.Mensagem @User.Identity.Name
     @Html.HiddenFor(model => model.UsuarioId)
 </p>
 
-@Html.ActionLink("Logar","Login", null,  new { @class = "btn btn-success"})
-@Html.ActionLink("Cadastrar-se","Create")
-@Html.ActionLink("Editar Cadastro","Editar")
-
-<a href="@Url.Action("LogOut","Home")">Sair</a>
+@Html.ActionLink("Logar","Login", null,  new { @class = "btn btn-dark"})
+@Html.ActionLink("Cadastrar-se","Create", null, new { @class = "btn btn-dark"})
+@Html.ActionLink("Editar Cadastro","Editar", null, new { @class = "btn btn-dark"})
+<input type="submit" value="Sair" class="btn btn-dark"/>
+<!--<a href="@Url.Action("LogOut","Home")">Sair</a>-->
+</div>
+    @*<div>
+      <nav>
+        <ul class="dropdown-menu">
+             <li><a href="#">Cadastro</a></li>
+        </ul>
+      </nav>
+    </div>*@
+</body>

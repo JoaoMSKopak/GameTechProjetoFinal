@@ -1,6 +1,7 @@
 ﻿@model GameTech.Models.Usuario
 
 @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Create";
 }
 
@@ -11,7 +12,7 @@
 {
     @Html.AntiForgeryToken()
 
-    <div class="form-horizontal">
+    <div class="form-horizontal" style="margin-left:450px; color:white; font-size:20px">
         <h4>Cadastro</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
@@ -82,8 +83,8 @@
             </div>*@
 
         <div class="form-group">
-            <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Se cadastrar" class="btn btn-default" />
+            <div class="col-md-offset-2 col-md-10" style="color:white">
+                <input type="submit" value="Cadastrar-se" class="btn btn-dark" />
             </div>
         </div>
     </div>
