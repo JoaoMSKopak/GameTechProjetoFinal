@@ -11,10 +11,14 @@ namespace GameTech.Models
 
     public class Usuario
     {
+        public Usuario()
+        {
+            Prod_Vendas = new HashSet<Prod_Venda>();
+            Prod_Trocas = new HashSet<Prod_Troca>();
+            Prod_Aluguels = new HashSet<Prod_Aluguel>();
+        }
       
-
-        
-
+        [Key]
         public int UsuarioId { get; set; }
         [Required]
         [Column(TypeName = "VARCHAR")]
@@ -57,6 +61,11 @@ namespace GameTech.Models
 
         [HiddenInput]
         public string ReturnUrl { get; set; }
-        
+
+        public virtual ICollection<Prod_Venda> Prod_Vendas { get; set; }
+        public virtual ICollection<Prod_Troca> Prod_Trocas { get; set; }
+        public virtual ICollection<Prod_Aluguel> Prod_Aluguels { get; set; }
+
+
     }    
 }

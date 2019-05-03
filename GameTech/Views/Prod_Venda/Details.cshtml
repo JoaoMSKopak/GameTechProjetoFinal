@@ -1,0 +1,42 @@
+﻿@model GameTech.Models.Prod_Venda
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Prod_Venda</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdVNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdVNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdVPlat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdVPlat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdVGen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdVGen)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProdVID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -17,6 +17,9 @@ namespace GameTech
                 AuthenticationType = "ApplicationCookie",
                 LoginPath = new PathString("/Home/Login")
             });
+
+            System.Web.Helpers.AntiForgeryConfig.UniqueClaimTypeIdentifier =
+            System.Security.Claims.ClaimTypes.Name;
         }
     }
 }
