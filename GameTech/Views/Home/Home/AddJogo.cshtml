@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "AddJogo";
+}
+<head>
+<div style="background-color:black; border-style:solid; color:white">
+ <h2  style="margin-left:200px; font-size:40px">Para adicionar um jogo para compra ou venda</h2>
+ <h2 style="margin-left:340px; font-size:40px">preencha os campos abaixo</h2>
+</div>
+</head>
+
+<body>
+
+    <div style="background-color:black; border-style:solid; color:white; margin-left:390px; margin-top:120px; width:400px; ">
+        <table>
+
+            <tr>
+                <td>Nome do jogo</td>
+                <td><input type="text" style="margin:30px"/></td>
+            </tr>
+            
+            <tr>
+                <td>Plataforma</td>
+                <td><input type="text" style="margin:30px" /></td>
+            </tr>
+
+            <tr>
+                <td>Gênero</td>
+                <td><input type="text" style="margin:30px" /></td>
+            </tr>
+
+            <tr>
+                <td><input type="checkbox" style="margin:30px">Venda</td>
+                <td><input type="checkbox" style="margin:30px">Troca</td>
+            </tr>
+
+            <tr>
+                <td>Preço</td> <td><input type="text" style="margin:30px"></td>
+            </tr>
+
+        </table>
+        <div style="margin-left:110px">
+        <input type="submit" value="Adicionar" class="btn btn-dark" /> <input type="submit" value="Cancelar" class="btn btn-dark">
+        </div>
+    </div>
+</body>

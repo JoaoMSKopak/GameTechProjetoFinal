@@ -1,0 +1,56 @@
+﻿
+
+@model GameTech.Models.Login
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Login";
+}
+<div>
+<h2 style="color:white; margin-left: 460px; font-size:90px">Login</h2>
+</div>
+@*@Html.ValidationSummary(true)*@
+
+@*@using (Html.BeginForm())
+{
+    @Html.EditorForModel()
+    <p>
+        <button type="submit">Logar</button>
+    </p>
+}*@
+
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Home", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <!--Label NomeUser e textbox-->
+                <div class="form-group" style="color:white; margin-left:450px; font-size:30px">
+                    @Html.LabelFor(u => u.NomeUsu, new { @class = "col-md-10 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(u => u.NomeUsu, "", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(u => u.NomeUsu, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <!--Label Senha e textbox-->
+                <div class="form-group" style="color:white; margin-left:450px; font-size:30px">
+                    @Html.LabelFor(u => u.Senha, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(u => u.Senha, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(u => u.Senha, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <!--Submit efetuar login-->
+                <div class="form-group" style="margin-left:465px">
+                    
+                        <input type="submit" value="Efetuar login" class="btn btn-dark" style="color:white" />
+                  
+                </div>
+            }
+        </section>
+    </div>
+</div>
+
