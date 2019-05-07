@@ -9,23 +9,29 @@
 </head>
 
 <body>
-<div style="color:white">
-<p>
-    @ViewBag.Mensagem @User.Identity.Name
-    @Html.HiddenFor(model => model.UsuarioId)
-</p>
-
-@Html.ActionLink("Logar","Login", null,  new { @class = "btn btn-dark"})
-@Html.ActionLink("Cadastrar-se","Create", null, new { @class = "btn btn-dark"})
-@Html.ActionLink("Editar Cadastro","Editar", null, new { @class = "btn btn-dark"})
-<input type="submit" value="Sair" class="btn btn-dark"/>
-<!--<a href="@Url.Action("LogOut","Home")">Sair</a>-->
-</div>
-    @*<div>
-      <nav>
-        <ul class="dropdown-menu">
-             <li><a href="#">Cadastro</a></li>
-        </ul>
-      </nav>
-    </div>*@
+    <div>
+        <p>
+            @ViewBag.Mensagem @User.Identity.Name
+            @Html.HiddenFor(model => model.UsuarioId)
+        </p>
+        @Html.ActionLink("Logar", "Login", null, new { @class = "btn btn-dark" })
+        @Html.ActionLink("Cadastrar-se", "Create", null, new { @class = "btn btn-dark" })
+        @Html.ActionLink("Editar Cadastro", "Editar", null, new { @class = "btn btn-dark" })
+        @Html.ActionLink("Jogos", "Compra", null, new { @class = "btn btn-dark" })
+        @Html.ActionLink("Carrinho", "Carrinho", null, new { @class = "btn btn-dark" })
+        <a href="@Url.Action("LogOut","Home")"><input type="submit" value="Sair" class="btn btn-dark"></a>
+    </div>
+    
 </body>
+
+<table>
+    <tr>
+        <td>
+
+        </td>
+
+        <td>
+
+        </td>
+    </tr>
+</table>
