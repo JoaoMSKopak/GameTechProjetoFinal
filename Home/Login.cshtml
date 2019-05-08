@@ -27,6 +27,7 @@
                 @Html.AntiForgeryToken()
                 <hr />
                 @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                
                 <!--Label NomeUser e textbox-->
                 <div class="form-group" style="color:white; margin-left:450px; font-size:30px">
                     @Html.LabelFor(u => u.NomeUsu, new { @class = "col-md-10 control-label" })
@@ -53,4 +54,3 @@
         </section>
     </div>
 </div>
-

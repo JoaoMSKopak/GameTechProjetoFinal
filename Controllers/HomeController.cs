@@ -251,5 +251,10 @@ namespace GameTech.Controllers
         {
             return View();
         }
+
+        public ActionResult Aluguel()
+        {
+            return View();
+        }
     }
 }
