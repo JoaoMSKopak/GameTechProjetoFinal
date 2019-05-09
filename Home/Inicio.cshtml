@@ -4,11 +4,37 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Inicio";
 }
-<div style="margin-left: 250px; margin-top:250px">
-<h1 style="font:700;font-size:100px;color: white;">Game&Tech</h1>
+
+<style>
+    .men {
+        margin-top:100px;
+        color: white;
+        background-color: black;
+        border-style: solid;
+        text-align: center;
+        font: 700;
+        font-size: 100px;
+        height:150px;
+        vertical-align:central;
+        width:100%;
+    }
+
+    .button {
+        width: 275px;
+        height: 150px;
+        margin-left: 380px;
+        font-size:100px;
+        border-bottom-color:black;
+        background-color:black;
+        border-style:solid;
+    }
+</style>
+<div class="men">
+Game&Tech
 </div>
 <body>
-<div style="margin-left:480px">
-    @Html.ActionLink("Entrar", "Index", null, new { @class="btn btn-dark"})
+<div class="button" style="color:white">
+    <a href="~/Home/Index">Entrar</a>
+    @*@Html.ActionLink("Entrar", "Index", null, new { @class="btn btn-dark"})*@
 </div>
 </body> 

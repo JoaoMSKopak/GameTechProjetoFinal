@@ -222,37 +222,60 @@ namespace GameTech.Controllers
         //    return View(usuario);
         //}
 
+        //view da pagina inicial
         public ActionResult Inicio()
         {
             return View();
         }
 
+        //view de visualizaçao de detalhas do jogo a venda
         public ActionResult Detalhes()
         {
             return View();
         }
 
-        public ActionResult AddJogo()
+        //views referentes a venda de jogos
+        public ActionResult AddVenda()
         {
             return View();
         }
 
-        public ActionResult Compra()
+        public ActionResult Venda()
         {
             return View();
         }
 
+        //views referentes a troca de jogos
+        public ActionResult AddTroca()
+        {
+            return View();
+        }
+
+        public ActionResult Troca()
+        {
+            return View();
+        }
+
+        //view carrinho
         public ActionResult Carrinho()
         {
             return View();
         }
 
+        //view de aviso de necessidade de cadastro para acessar funções de compra e troca
         public ActionResult Aviso()
         {
             return View();
         }
 
+        //view de acesso a pagina de aluguel de jogos
         public ActionResult Aluguel()
+        {
+            return View();
+        }
+
+        //view de acesso ao perfil do usuario
+        public ActionResult Perfil()
         {
             return View();
         }

@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "AddTroca";
+}
+<style>
+.menu{
+width:100%;
+}
+</style>
+<head>
+    <div class="menu" style="background-color:black; border-style:solid; color:white">
+        <h2 style="font-size:40px; text-align:center">Para adicionar um jogo para troca preencha os campos abaixo</h2>
+    </div>
+</head>
+
+<body>
+
+    <div style="background-color:black; border-style:solid; color:white; margin-left:390px; margin-top:120px; width:400px; vertical-align:central; ">
+        <table>
+
+            <tr>
+                <td>Nome do jogo</td>
+                <td><input type="text" style="margin:30px" /></td>
+            </tr>
+
+            <tr>
+                <td>Plataforma</td>
+                <td><input type="text" style="margin:30px" /></td>
+            </tr>
+
+            <tr>
+                <td>Gênero</td>
+                <td><input type="text" style="margin:30px" /></td>
+            </tr>
+            
+        </table>
+        <div style="margin-left:110px">
+            <input type="submit" value="Adicionar" class="btn btn-dark" /> @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-dark" })
+        </div>
+    </div>
+</body>

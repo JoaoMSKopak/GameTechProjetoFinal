@@ -1,7 +1,7 @@
 ﻿
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
-    ViewBag.Title = "Aluguel";
+    ViewBag.Title = "Troca";
 }
 
 <style>
@@ -56,7 +56,7 @@
         }
 </style>
 <div style="color:white; background-color:black; font-size:40px; border-style:solid">
-    <h2 style="text-align:center">Lista de jogos para aluguel</h2>
+    <h2 style="text-align:center">Busque aqui as ofertas de troca de jogos</h2>
 </div>
 
 <body>
@@ -92,10 +92,10 @@
                     <li><a href="#">RPG</a></li>
                     <li><a href="#">Simulador</a></li>
                 </ul>
-            </li>
+            </li>            
         </ul>
         <div style="float:right">
-        <input type="text" /><input type="submit" value="Pesquisar" style="text-align:center" class="btn btn-dark">
+            <input type="text" /><input type="submit" value="Pesquisar" style="text-align:center" class="btn btn-dark">
         </div>
     </nav>
 
@@ -104,3 +104,4 @@
         @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-dark" })
     </div>
 </body>
+

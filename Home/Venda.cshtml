@@ -1,0 +1,110 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Venda";
+}
+
+<style> 
+*{
+    margin:0;
+    padding:0;
+}
+
+    .menu {
+        width:100%;
+        height:50px; 
+        background-color:black;
+        font-family:'Arial';
+    }
+
+    .menu ul{
+        list-style:none;
+        position:relative;
+    }
+
+    .menu ul li{
+        width:150px;
+        float:left;
+    }
+
+    .menu a{
+        padding:15px;
+        display:block;
+        text-decoration:none;
+        text-align:center;
+        background-color:black;
+        color:white;
+    }
+
+    .menu ul ul{
+        position:absolute;
+        visibility:hidden;
+    }
+
+    .menu ul li:hover ul{
+        visibility:visible;
+    }
+
+    .menu a:hover{
+        background-color: #f4f4f4;
+        color:#555;
+    }
+
+    .menu ul ul li{
+        float:none;
+        border-bottom: solid 1px #ccc;
+    }
+</style>
+<div style="color:white; background-color:black; font-size:40px; border-style:solid">
+<h2 style="text-align:center">Busque aqui os jogos a venda</h2>
+</div>
+
+<body>
+<nav class="menu">
+    <ul>
+        <li><a href="#">Nome</a>
+            <ul>
+                <li><a href="#">A-Z</a></li>
+                <li><a href="#">Z-A</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Plataforma</a>
+            <ul>
+                <li><a href="#">PS4</a></li>
+                <li><a href="#">PS3</a></li>
+                <li><a href="#">PC</a></li>
+                <li><a href="#">X-BOX</a></li>
+                <li><a href="#">X-BOX One</a></li>
+                <li><a href="#">Nintendo Switch</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Gênero</a>
+            <ul>
+                <li><a href="#">Tiro</a></li>
+                <li><a href="#">Ação</a></li>
+                <li><a href="#">Aventura</a></li>
+                <li><a href="#">Terror</a></li>
+                <li><a href="#">Luta</a></li>
+                <li><a href="#">Corrida</a></li>
+                <li><a href="#">RPG</a></li>
+                <li><a href="#">Simulador</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Preço</a>
+            <ul>
+                <li><a href="#">R$20,00 à R$39,99</a></li>
+                <li><a href="#">R$40,00 à R$59,99</a></li>
+                <li><a href="#">R$60,00 à R$79,99</a></li>
+                <li><a href="#">R$80,00 à R$99,99</a></li>
+                <li><a href="#">Acima de R$100,00</a></li>
+            </ul>
+        </li>
+    </ul>
+    <input type="text" style="text-align:center"/><input type="submit" value="Pesquisar" style="text-align:center" class="btn btn-dark">
+</nav>
+
+
+    <div style="margin-top:400px">
+        @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-dark" })
+    </div>
+</body>
