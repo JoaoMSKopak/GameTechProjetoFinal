@@ -1,0 +1,58 @@
+﻿@model GameTech.Models.Prod_Aluguel
+
+@{
+    ViewBag.Title = "Detalhes Locação";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:13%; text-align:center">Detalhes</h2>
+
+<div style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%; text-align:center">
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UsuarioAtual.NomeUsu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdANome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdANome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdAPlat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdAPlat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdAGen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdAGen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Alugado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Alugado)
+        </dd>
+
+    </dl>
+    <div>
+        @Html.ActionLink("Editar", "Edit", new { id = Model.ProdAID }) |
+        @Html.ActionLink("Voltar", "Index")
+    </div>
+</div>

@@ -1,0 +1,62 @@
+﻿@model GameTech.Models.Prod_Venda
+
+@{
+    ViewBag.Title = "Detalhes Venda";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:15%; text-align:center">Detalhes</h2>
+
+<div style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%; text-align:center">
+
+    <div>
+        <h4>Jogo</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ProdVNome)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProdVNome)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProdVPlat)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProdVPlat)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProdVGen)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProdVGen)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProdVPrec)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProdVPrec)
+            </dd>
+
+            <dt>
+                Vendedor
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UsuarioAtual.NomeUsu)
+            </dd>
+
+        </dl>
+        <div>
+            @Html.ActionLink("Voltar", "Index")
+        </div>
+    </div>
+    
+</div>

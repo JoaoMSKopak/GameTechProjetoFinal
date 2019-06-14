@@ -1,0 +1,67 @@
+﻿@model GameTech.Models.Proposta
+
+
+@{
+    ViewBag.Title = "Trocar";
+}
+
+<h2>Trocar</h2>
+
+
+
+<p>@Model.Prod_Troca.ProdTNome</p>
+<p>@Model.Prod_Troca.ProdTPlat</p>
+<p>@Model.Prod_Troca.ProdTGen</p>
+<p>Dono</p>
+<p>@Model.Prod_Troca.UsuarioAtual.NomeUsu</p>
+
+
+
+@*@{ 
+    var identity = (ClaimsIdentity)User.Identity;
+    int idLogado = int.Parse(identity.Claims.Where(c => c.Type == ClaimTypes.Sid).FirstOrDefault().Value);
+    EFContext db = new EFContext();
+    var Prod_Trocas = db.Prod_Trocas.Where(p=>p.UsuAtualID == idLogado).ToList();
+
+}*@
+@Html.HiddenFor(l => l.Prod_Troca.ProdTID)
+<table class="table">
+    <tr>
+        <th>
+            Nome
+        </th>
+        <th>
+            Plataforma
+        </th>
+        <th>
+            Gênero
+        </th>
+
+        <th>Ação</th>
+    </tr>
+
+    @foreach (var item in Model.Prod_Para_Trocar)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTNome)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTPlat)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTGen)
+            </td>
+
+            <td>
+                @*@Html.ActionLink("Fazer Proposta","FazerProposta", new { id = item.ProdTID })*@
+                @Html.ActionLink("Fazer Proposta", "FazerProposta", new { idProdProposta = item.ProdTID, idUsuLog = item.UsuAtualID, idProdTroca = Model.ProdTAtualID, idUsuarioTroca = Model.UsuarioReceb.UsuarioId })
+                @Html.ActionLink("Voltar","Index")
+            </td>
+
+        </tr>
+    }
+
+</table>

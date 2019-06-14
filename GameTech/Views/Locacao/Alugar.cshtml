@@ -1,0 +1,65 @@
+﻿@model GameTech.Models.Prod_Aluguel
+
+@{
+    /**/
+
+    ViewBag.Title = "Alugar";
+}
+
+<h2>Alugar</h2>
+
+<p>@Model.ProdANome</p>
+<p>@Model.ProdAPlat</p>
+<p>@Model.ProdAGen</p>
+@ViewBag.Mensagem
+
+<h3>Confirmar locação</h3>
+
+@{
+    if (Model.Alugado == true)
+    {
+        @ViewBag.Mensagem;
+    }
+    else
+    {
+        using (Html.BeginForm())
+        {
+
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.ProdAID)
+            @Html.HiddenFor(model => model.ProdANome)
+            @Html.HiddenFor(model => model.ProdAPlat)
+            @Html.HiddenFor(model => model.ProdAGen)
+            @Html.HiddenFor(model => model.Alugado)
+            <div class="form-group">
+                @Html.LabelFor(model => model.DuracLoc, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.EditorFor(model => model.ProdVPlat, new { htmlAttributes = new { @class = "form-control" } })*@
+                    @Html.DropDownList("DuracLoc", new List<SelectListItem>
+                    {
+                        new SelectListItem{Text = "Escolha a duração", Selected = true, Disabled = true},
+                        new SelectListItem{Text = "5 dias", Value = "5 dias"},
+                        new SelectListItem{Text = "10 dias", Value = "10 dias"},
+                        new SelectListItem{Text = "15 dias", Value = "15 dias"},
+                    })
+                    @Html.ValidationMessageFor(model => model.DuracLoc, "", new { @class = "text-danger" })
+                </div>
+
+                @*@{
+                        string durac = Model.DuracLoc;
+                    }*@
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Alugar jogo" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+
+        }
+    }
+}
+
+@Html.ActionLink("Voltar", "index")
+
+

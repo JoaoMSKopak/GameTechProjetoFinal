@@ -1,0 +1,65 @@
+﻿@model GameTech.Models.Prod_Aluguel
+
+@{
+    ViewBag.Title = "Deletar Locação";
+}
+
+
+<h2>Deletar</h2>
+
+<h3></h3>
+<div style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%; text-align:center">
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UsuarioAtual.NomeUsu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdANome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdANome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdAPlat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdAPlat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdAGen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdAGen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Alugado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Alugado)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Confirmar" class="btn btn-dark" /> |
+            @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-dark" })
+        </div>
+    }
+</div>

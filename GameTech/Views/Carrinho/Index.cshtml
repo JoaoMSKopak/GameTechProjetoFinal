@@ -1,0 +1,61 @@
+﻿@using GameTech.Models;
+@{
+    ViewBag.Title = "Carrinho";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+
+    <h3 style="color:white; background-color:black; border-style:solid; width:13%; text-align:center">Carrinho</h3>
+    <table class="table-bordered" cellpadding="2" cellspacing="2" border="1" style="color:white; background-color:black; border-style:solid">
+        <tr>
+            <th>Opção</th>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Plataforma</th>
+            <th>Gênero</th>
+            <th>Preço(R$)</th>
+            <th>Quantidade</th>
+            <th>SubTotal</th>
+        </tr>
+
+        @foreach (Item item in (List<Item>)Session["cart"])
+        {
+            <tr>
+                <td><a href="@Url.Action("Remover", "Cart", new { id = item.Prod_Venda.ProdVID })">Remover</a></td>
+                <td>@item.Prod_Venda.ProdVID</td>
+                <td>@item.Prod_Venda.ProdVNome</td>
+                <td>@item.Prod_Venda.ProdVPlat</td>
+                <td>@item.Prod_Venda.ProdVGen</td>
+                <td>@item.Prod_Venda.ProdVPrec</td>
+                <td>@item.Quantidade</td>
+                <td>@(item.Prod_Venda.ProdVPrec * item.Quantidade)</td>
+            </tr>
+        }
+        <tr>
+            <td align="right" colspan="5">Total</td>
+            <td>
+                @{
+                    List<Item> cart = (List<Item>)Session["cart"];
+                    var total = cart.Sum(item => item.Prod_Venda.ProdVPrec * item.Quantidade);
+                }
+                @total
+            </td>
+        </tr>
+    </table>
+    <br>
+    <div style="color:white; background-color:black; border-style:solid; width:15%">
+        <a href="@Url.Action("Index", "Venda")">Continuar Comprando</a>
+    </div>
+
+</body>
+</html>
+
+
+

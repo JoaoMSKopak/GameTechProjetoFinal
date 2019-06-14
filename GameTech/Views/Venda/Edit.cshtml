@@ -1,0 +1,86 @@
+﻿@model GameTech.Models.Prod_Venda
+
+@{
+    ViewBag.Title = "Editar Venda";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:10%; text-align:center">Editar</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%">
+        <h4>Jogo</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ProdVID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProdVNome, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ProdVNome, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ProdVNome, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProdVPlat, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.ProdVPlat, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.DropDownList("ProdVPlat", new List<SelectListItem>
+                {
+                    new SelectListItem{Text = "Escolha uma plataforma", Selected = true, Disabled = true},
+                    new SelectListItem{Text = "Nintendo Wii U", Value = "Nintendo Wii U"},
+                    new SelectListItem{Text = "Nintendo Switch", Value = "Nintendo Switch"},
+                    new SelectListItem{Text = "PC", Value = "PC"},
+                    new SelectListItem{Text = "Playstation 3", Value = "Playstation 3"},
+                    new SelectListItem{Text = "Playstation 4", Value = "Playstation 4"},
+                    new SelectListItem{Text = "Xbox 360", Value = "Xbox 360"},
+                    new SelectListItem{Text = "Xbox One", Value = "Xbox One"}
+                })
+                @Html.ValidationMessageFor(model => model.ProdVPlat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProdVGen, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.ProdVGen, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.DropDownList("ProdVGen", new List<SelectListItem>
+                {
+                    new SelectListItem{Text = "Escolha um gênero", Selected = true, Disabled = true},
+                    new SelectListItem{Text = "Ação", Value = "Ação"},
+                    new SelectListItem{Text = "Aventura", Value = "Aventura"},
+                    new SelectListItem{Text = "Corrida", Value = "Corrida"},
+                    new SelectListItem{Text = "Estratégia", Value = "Estratégia"},
+                    new SelectListItem{Text = "Esporte", Value = "Esporte"},
+                    new SelectListItem{Text = "Luta", Value = "Luta"},
+                    new SelectListItem{Text = "RPG", Value = "RPG"},
+                    new SelectListItem{Text = "Simulação", Value = "Simulação"},
+                    new SelectListItem{Text = "Tiro", Value = "Tiro"}
+                })
+                @Html.ValidationMessageFor(model => model.ProdVGen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProdVPrec, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ProdVPrec, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ProdVPrec, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar alterações" class="btn btn-dark" /> |
+                @Html.ActionLink("Voltar", "VisualizarProdutosVenda", null, new { @class="btn btn-dark"})
+            </div>
+        </div>
+    </div>
+}
+
+

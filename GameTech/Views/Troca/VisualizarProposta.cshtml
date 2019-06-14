@@ -1,0 +1,62 @@
+﻿@model IEnumerable<GameTech.Models.Proposta>
+
+@{
+    ViewBag.Title = "Propostas Recebidas";
+}
+
+<h2 style="color:white; background-color:black; border-style:solid; width:35%; text-align:center">Proposta(s) Recebida(S)</h2>
+<p>
+
+</p>
+<p>
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-dark" })
+</p>
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table" style="color:white; background-color:black; border-style:solid">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PropostaID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UsuarioAtual)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UsuarioReceb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Troca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Para_Trocar)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropostaID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UsuarioAtual.NomeUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UsuarioReceb.NomeUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prod_Troca.ProdTNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prod_Para_Trocar.FirstOrDefault().ProdTNome)
+            </td>
+            <td>
+                @Html.ActionLink("Aceitar", "AceitarProposta", new { idProposta = item.PropostaID, idUsuarioAt = item.UsuAtualID, idUsuRec = item.UsuarioReceb.UsuarioId, idProdTroc = item.ProdTAtualID, idProdProp = item.Prod_P_TrocarID })
+                @Html.ActionLink("Recusar", "RecusarProposta", new { idProposta = item.PropostaID, idUsuarioAt = item.UsuAtualID, idUsuRec = item.UsuarioReceb.UsuarioId, idProdTroc = item.ProdTAtualID, idProdProp = item.Prod_P_TrocarID })
+            </td>
+        </tr>
+    }
+
+</table>

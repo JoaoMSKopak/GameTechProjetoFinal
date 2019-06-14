@@ -1,0 +1,3 @@
+﻿1>------ Recompilação total iniciada: Projeto: GameTech, Configuração: Debug Any CPU ------
+1>  GameTech -> C:\Users\Aluno\Desktop\GameTech\GameTech\bin\GameTech.dll
+========== Recompilar Tudo: 1 com êxito, 0 com falha, 0 ignorados ==========

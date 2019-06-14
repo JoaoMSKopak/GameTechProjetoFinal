@@ -11,10 +11,9 @@ namespace GameTech.Models
 
     public class Usuario
     {
+       
       
-
-        
-
+        [Key]
         public int UsuarioId { get; set; }
         [Required]
         [Column(TypeName = "VARCHAR")]
@@ -33,14 +32,16 @@ namespace GameTech.Models
         public string Senha { get; set; }
 
         [Required]
+        [NotMapped]
         [Display(Name = "Senha de Confirmação")]
         [Column(TypeName = "VARCHAR")]
         [DataType(DataType.Password)]
         [StringLength(20, ErrorMessage = "A {0} deve ter no mínimo {2} caracteres e no máximo {1} caracteres", MinimumLength = 6)]
         [System.ComponentModel.DataAnnotations.Compare("Senha", ErrorMessage = "A senha e a senha de confirmação não correspondem.")]
+
         public string ConSenha { get; set; }
 
-        //[Required]
+        [Required]
         [Column(TypeName = "VARCHAR")]
         [Display(Name = "Endereço")]
         public string Endereco { get; set; }
@@ -55,8 +56,17 @@ namespace GameTech.Models
 
         public DateTime DataNasc { get; set; }
 
+        public ICollection<Prod_Venda> Prod_Vendas { get; set; }
+        public ICollection<Prod_Troca> Prod_Trocas { get; set; }
+        public ICollection<Prod_Aluguel> Prod_Aluguels { get; set; }
+
+        public ICollection<Proposta> Propostas { get; set; }
+
         [HiddenInput]
         public string ReturnUrl { get; set; }
-        
+
+       
+
+
     }    
 }

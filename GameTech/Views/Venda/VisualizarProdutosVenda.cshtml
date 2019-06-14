@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GameTech.Models.Prod_Venda>
+
+@{
+    ViewBag.Title = "VisualizarProdutosVenda";
+}
+
+<h2 style="color:white; background-color:black; border-style:solid; width:30%; text-align:center">Visualizar meus Produtos</h2>
+
+<p>
+    @Html.ActionLink("Adicionar", "Create", null, new { @class="btn btn-dark"}) |
+    @Html.ActionLink("Voltar", "Index", null, new { @class="btn btn-dark"})
+</p>
+<table class="table" style="color:white; background-color:black; border-style:solid">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVPlat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVGen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVPrec)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.ProdVNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProdVPlat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProdVGen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProdVPrec)
+        </td>
+        <td>
+            @Html.ActionLink("Alterar", "Edit", new { id=item.ProdVID }) |
+            @Html.ActionLink("Remover", "Delete", new { id=item.ProdVID })
+        </td>
+    </tr>
+}
+
+</table>

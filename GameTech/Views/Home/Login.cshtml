@@ -1,52 +1,40 @@
 ﻿
-
 @model GameTech.Models.Login
-
 @{
     ViewBag.Title = "Login";
 }
+<h2 style="color:white; background-color:black; border-style:solid; width:10%; margin-left:40%; text-align:center">Login</h2>
 
-<h2>Login</h2>
 
-@*@Html.ValidationSummary(true)*@
-
-@*@using (Html.BeginForm())
-{
-    @Html.EditorForModel()
-    <p>
-        <button type="submit">Logar</button>
-    </p>
-}*@
-
-<div class="row">
-    <div class="col-md-8">
+<div class="row" style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%">
+    
         <section id="loginForm">
             @using (Html.BeginForm("Login", "Home", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
             {
                 @Html.AntiForgeryToken()
                 <hr />
                 @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-                <div class="form-group">
-                    @Html.LabelFor(u => u.NomeUsu, new { @class = "col-md-2 control-label" })
+                <div class="form-group" style="margin-left:50px">
+                    @Html.LabelFor(u => u.NomeUsu@*, new { @class = "col-md-2 control-label" }*@)
                     <div class="col-md-10">
                         @Html.TextBoxFor(u => u.NomeUsu, "", new { @class = "form-control" })
                         @Html.ValidationMessageFor(u => u.NomeUsu, "", new { @class = "text-danger" })
                     </div>
                 </div>
-                <div class="form-group">
-                    @Html.LabelFor(u => u.Senha, new { @class = "col-md-2 control-label" })
+                <div class="form-group" style="margin-left:50px">
+                    @Html.LabelFor(u => u.Senha@*, new { @class = "col-md-2 control-label" }*@)
                     <div class="col-md-10">
                         @Html.PasswordFor(u => u.Senha, new { @class = "form-control" })
                         @Html.ValidationMessageFor(u => u.Senha, "", new { @class = "text-danger" })
                     </div>
                 </div>
                 <div class="form-group">
-                    <div class="col-md-offset-2 col-md-10">
-                        <input type="submit" value="Efetuar login" class="btn btn-default" />
+                    <div class="col-md-offset-2 col-md-10" style="margin-left:40px">
+                        <input type="submit" value="Efetuar login" class="btn btn-dark" /> |
+                        @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-dark" })
                     </div>
                 </div>
             }
         </section>
-    </div>
+    
 </div>
-

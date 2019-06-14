@@ -1,0 +1,68 @@
+﻿@model GameTech.Models.Prod_Troca
+
+@{
+    ViewBag.Title = "Deletar Troca";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:10%; text-align:center">Deletar</h2>
+
+<h3 style="color:white; background-color:black; border-style:solid; width:35%; margin-left:38%; text-align:center">Deseja excluir o seguinte item</h3>
+<div style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%; text-align:center">
+
+    <dl class="dl-horizontal">
+        @*<dt>
+                @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UsuarioAtual.NomeUsu)
+            </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTPlat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTPlat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTGen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTGen)
+        </dd>
+
+        @*<dt>
+                @Html.DisplayNameFor(model => model.Trocar)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Trocar)
+            </dd>*@
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Confirmar" class="btn btn-dark" /> |
+            @Html.ActionLink("Cancelar", "VisualizarProdutosTroca", null, new { @class = "btn btn-dark" })
+        </div>
+    }
+    <p>
+
+    </p>
+</div>

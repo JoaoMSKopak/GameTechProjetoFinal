@@ -1,0 +1,75 @@
+﻿@model GameTech.Models.Prod_Troca
+
+@{
+    ViewBag.Title = "Adicionar Troca";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:20%; text-align:center">Novo Produto</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%">
+        
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group" style="margin-left:20px">
+            @Html.LabelFor(model => model.ProdTNome@*, htmlAttributes: new { @class = "control-label col-md-2" }*@)
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ProdTNome, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ProdTNome, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-left:20px">
+            @Html.LabelFor(model => model.ProdTPlat@*, htmlAttributes: new { @class = "control-label col-md-2" }*@)
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.ProdTPlat, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.DropDownList("ProdTPlat", new List<SelectListItem>
+               {
+                   new SelectListItem{Text = "Escolha uma plataforma", Selected = true, Disabled = true},
+                   new SelectListItem{Text = "Nintendo Wii U", Value = "Nintendo Wii U"},
+                   new SelectListItem{Text = "Nintendo Switch", Value = "Nintendo Switch"},
+                   new SelectListItem{Text = "PC", Value = "PC"},
+                   new SelectListItem{Text = "Playstation 3", Value = "Playstation 3"},
+                   new SelectListItem{Text = "Playstation 4", Value = "Playstation 4"},
+                   new SelectListItem{Text = "Xbox 360", Value = "Xbox 360"},
+                   new SelectListItem{Text = "Xbox One", Value = "Xbox One"}
+               })
+                @Html.ValidationMessageFor(model => model.ProdTPlat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-left:20px">
+            @Html.LabelFor(model => model.ProdTGen@*, htmlAttributes: new { @class = "control-label col-md-2" }*@)
+            <div class="col-md-10">
+                @Html.DropDownList("ProdTGen", new List<SelectListItem>
+                {
+                    new SelectListItem{Text = "Escolha um gênero", Selected = true, Disabled = true},
+                    new SelectListItem{Text = "Ação", Value = "Ação"},
+                    new SelectListItem{Text = "Aventura", Value = "Aventura"},
+                    new SelectListItem{Text = "Corrida", Value = "Corrida"},
+                    new SelectListItem{Text = "Estratégia", Value = "Estratégia"},
+                    new SelectListItem{Text = "Esporte", Value = "Esporte"},
+                    new SelectListItem{Text = "Luta", Value = "Luta"},
+                    new SelectListItem{Text = "RPG", Value = "RPG"},
+                    new SelectListItem{Text = "Simulação", Value = "Simulação"},
+                    new SelectListItem{Text = "Tiro", Value = "Tiro"}
+                })
+                @*@Html.EditorFor(model => model.ProdTGen, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.ValidationMessageFor(model => model.ProdTGen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10" style="margin-left:30px">
+                <input type="submit" value="Adicionar" class="btn btn-dark" /> |
+                @Html.ActionLink("Voltar", "Index", null, new { @class="btn btn-dark"})
+            </div>
+        </div>
+    </div>
+}
+

@@ -1,0 +1,129 @@
+﻿@model IEnumerable<GameTech.Models.Prod_Venda>
+@using System.Security.Claims;
+@{
+    ViewBag.Title = "Venda";
+}
+
+
+<style>
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu {
+        width: 100%;
+        height: 55px;
+        background-color: black;
+    }
+
+        .menu ul {
+            list-style: none;
+            position: relative;
+        }
+
+            .menu ul li {
+                width: 150px;
+                float: left;
+            }
+
+        .menu a {
+            padding: 15px;
+            display: block;
+            text-decoration: none;
+            text-align: center;
+            background-color: black;
+            color: white;
+        }
+
+        .menu ul ul {
+            position: absolute;
+            visibility: hidden;
+        }
+
+        .menu ul li:hover ul {
+            visibility: visible;
+        }
+
+        .menu a:hover {
+            background-color: white;
+            color: black;
+        }
+
+        .menu ul ul li {
+            float: none;
+            border-bottom: solid 1px black
+        }
+</style>
+
+<h2 style="color:white; background-color:black; border-style:solid; width:10%; text-align:center">Venda</h2>
+
+<nav class="menu">
+    <ul>
+        <li><a href="~/Home/Index">Home</a></li>
+        <li><a href="~/Troca/Index">Troca</a></li>
+        <li><a href="~/Locacao/Index">Locação</a></li>
+    </ul>
+</nav>
+
+<p>
+
+</p>
+
+<p>
+    @Html.ActionLink("Adicionar produto", "Create", null, new { @class = "btn btn-dark" }) |
+    @Html.ActionLink("Vizualizar Produtos", "VisualizarProdutosVenda", null, new { @class = "btn btn-dark" })
+</p>
+<table class="table" style="color:white; background-color:black; border-style:solid">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVNome)
+            @*@Html.ActionLink("Nome", "Index", new { ordClass = ViewBag.ParamClassNome })*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVPlat)
+            @*@Html.ActionLink("Plataforma", "Index", new { ordClass = ViewBag.ParamClassPlat })*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVGen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdVPrec)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdVNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdVPlat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdVGen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdVPrec)
+            </td>
+            <td>
+                @Html.ActionLink("Detalhes", "Details", new { id = item.ProdVID }) |
+                @{
+                    var identity = (ClaimsIdentity)User.Identity;
+                    int idLogado = int.Parse(identity.Claims.Where(c => c.Type == ClaimTypes.Sid).FirstOrDefault().Value);
+
+                    if (item.UsuAtualID != idLogado)
+                    {
+                        @Html.ActionLink("Comprar Agora", "Comprar", "Carrinho", new { id = item.ProdVID }, null)
+                    }
+                }
+                
+
+            </td>
+        </tr>
+    }
+
+</table>

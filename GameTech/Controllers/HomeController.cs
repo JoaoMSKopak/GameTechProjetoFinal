@@ -13,6 +13,7 @@ namespace GameTech.Controllers
     [AllowAnonymous]
     public class HomeController : Controller
     {
+        //Instânciação de uma variável do tipo EFContext
         private EFContext context = new EFContext();
         // GET: Home
         public ActionResult Index()
@@ -36,7 +37,8 @@ namespace GameTech.Controllers
             // Identidade do usuário
             var identity = new ClaimsIdentity(new[]
                 {
-                    new Claim(ClaimTypes.Name, myUser.NomeUsu)
+                    new Claim(ClaimTypes.Name, myUser.NomeUsu),
+                    new Claim(ClaimTypes.Sid, myUser.UsuarioId.ToString())
                 },
                 "ApplicationCookie");
 
@@ -60,6 +62,8 @@ namespace GameTech.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Usuario usuario)
         {
+            //context.Database.CreateIfNotExists();
+
             if (ModelState.IsValid)
             {
                 // Busca se já existe um usuário cadastrado com o mesmo nome de usuário.
@@ -76,7 +80,7 @@ namespace GameTech.Controllers
                 {
                     // Verificação de idade
 
-                    // Se cria uma variável chama zerotime(tempo zero)
+                    // Se cria uma variável chamada zerotime(tempo zero)
                     DateTime zeroTime = new DateTime(1, 1, 1);
 
                     /* Subtração da data de hoje pela data de nascimento do usuário
@@ -140,23 +144,33 @@ namespace GameTech.Controllers
             }
 
             // Persiste o banco procurando pelo usuário digitado
-            var myUser = context.Usuarios.SingleOrDefault(u => u.NomeUsu == login.NomeUsu);
+            var myUser = context.Usuarios.FirstOrDefault(u => u.NomeUsu == login.NomeUsu);
 
+            //Se não existir o usuário
             if (myUser == null)
             {
-                ModelState.AddModelError("", "Usuário ou senha inválidos");
+                //Mostra a mensagem de erro que não existe o usuário digitado
+                ModelState.AddModelError("", "Usuário não existe");
                 return View();
             }
 
+            //Se os dados do usuário estiverem certos
             if (login.NomeUsu == myUser.NomeUsu && login.Senha == myUser.Senha)
             {
+                //O usuário é autenticado
                 Auth(myUser);
                 int id = myUser.UsuarioId;
                 return Redirect(GetRedirectUrl(login.ReturnUrl, id));
             }
+            //Do contrário
+            else
+            {
+                //Mostra uma mensagem que o usuário ou a senha é invalido
+                ModelState.AddModelError("", "Usuário ou senha inválidos");
+            }
 
             //Falha na autenticação
-            ModelState.AddModelError("", "Usuário ou senha inválidos");
+            //ModelState.AddModelError("", "Usuário ou senha inválidos");
 
 
             return View();

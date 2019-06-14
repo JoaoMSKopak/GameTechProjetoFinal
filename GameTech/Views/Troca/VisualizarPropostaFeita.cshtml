@@ -1,0 +1,81 @@
+﻿@model IEnumerable<GameTech.Models.Proposta>
+
+@{
+    ViewBag.Title = "Propostas Feitas";
+}
+
+<h2 style="color:white; background-color:black; border-style:solid; width:30%; text-align:center">Proposta(s) Feita(s)</h2>
+<p>
+
+</p>
+<p>
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-dark" })
+</p>
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table" style="color:white; background-color:black; border-style:solid">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Prod_Troca.ProdTNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProdTAtualID)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.PropostaID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UsuarioAtual)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UsuarioReceb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Troca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Para_Trocar)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Prod_Troca.ProdTNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioAtual.NomeUsu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProdTAtualID)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.PropostaID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UsuarioAtual.NomeUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UsuarioReceb.NomeUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prod_Troca.ProdTNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prod_Para_Trocar.FirstOrDefault().ProdTNome)
+            </td>
+            @*<td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.PropostaID }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.PropostaID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.PropostaID })
+                </td>*@
+        </tr>
+    }
+
+</table>

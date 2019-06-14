@@ -1,0 +1,947 @@
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\GameTech.dll.config
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\GameTech.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\GameTech.pdb
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csc.exe
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csc.rsp
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csi.exe
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\csi.rsp
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\vbc.exe
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\EntityFramework.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Security.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Owin.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\WebGrease.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\EntityFramework.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Security.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Optimization.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\obj\Debug\GameTech.dll
+C:\Users\Aluno\Downloads\TCC-backEndJoaoMarcos\TCC-backEndJoaoMarcos\GameTech\obj\Debug\GameTech.pdb
+G:\DesSis\GameTech\GameTech\bin\GameTech.dll.config
+G:\DesSis\GameTech\GameTech\bin\GameTech.dll
+G:\DesSis\GameTech\GameTech\bin\GameTech.pdb
+G:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe
+G:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe.config
+G:\DesSis\GameTech\GameTech\bin\roslyn\csc.rsp
+G:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe
+G:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe.config
+G:\DesSis\GameTech\GameTech\bin\roslyn\csi.rsp
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Console.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe
+G:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe.config
+G:\DesSis\GameTech\GameTech\bin\roslyn\vbc.rsp
+G:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+G:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+G:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.dll
+G:\DesSis\GameTech\GameTech\bin\EntityFramework.dll
+G:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+G:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.dll
+G:\DesSis\GameTech\GameTech\bin\Owin.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Razor.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.dll
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+G:\DesSis\GameTech\GameTech\bin\WebGrease.dll
+G:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+G:\DesSis\GameTech\GameTech\bin\EntityFramework.xml
+G:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.xml
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+G:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Razor.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.xml
+G:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.xml
+G:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+G:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+G:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+G:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+G:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+G:\DesSis\GameTech\GameTech\obj\Debug\GameTech.dll
+G:\DesSis\GameTech\GameTech\obj\Debug\GameTech.pdb
+E:\DesSis\GameTech\GameTech\bin\GameTech.dll.config
+E:\DesSis\GameTech\GameTech\bin\GameTech.dll
+E:\DesSis\GameTech\GameTech\bin\GameTech.pdb
+E:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe
+E:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe.config
+E:\DesSis\GameTech\GameTech\bin\roslyn\csc.rsp
+E:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe
+E:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe.config
+E:\DesSis\GameTech\GameTech\bin\roslyn\csi.rsp
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Console.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe
+E:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe.config
+E:\DesSis\GameTech\GameTech\bin\roslyn\vbc.rsp
+E:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+E:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+E:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.dll
+E:\DesSis\GameTech\GameTech\bin\EntityFramework.dll
+E:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+E:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.dll
+E:\DesSis\GameTech\GameTech\bin\Owin.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Razor.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.dll
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+E:\DesSis\GameTech\GameTech\bin\WebGrease.dll
+E:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+E:\DesSis\GameTech\GameTech\bin\EntityFramework.xml
+E:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.xml
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+E:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Razor.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.xml
+E:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.xml
+E:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+E:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+E:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+E:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+E:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+E:\DesSis\GameTech\GameTech\obj\Debug\GameTech.dll
+E:\DesSis\GameTech\GameTech\obj\Debug\GameTech.pdb
+D:\DesSis\GameTech\GameTech\bin\GameTech.dll.config
+D:\DesSis\GameTech\GameTech\bin\GameTech.dll
+D:\DesSis\GameTech\GameTech\bin\GameTech.pdb
+D:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe
+D:\DesSis\GameTech\GameTech\bin\roslyn\csc.exe.config
+D:\DesSis\GameTech\GameTech\bin\roslyn\csc.rsp
+D:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe
+D:\DesSis\GameTech\GameTech\bin\roslyn\csi.exe.config
+D:\DesSis\GameTech\GameTech\bin\roslyn\csi.rsp
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DesSis\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Console.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe
+D:\DesSis\GameTech\GameTech\bin\roslyn\vbc.exe.config
+D:\DesSis\GameTech\GameTech\bin\roslyn\vbc.rsp
+D:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+D:\DesSis\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+D:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.dll
+D:\DesSis\GameTech\GameTech\bin\EntityFramework.dll
+D:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+D:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.dll
+D:\DesSis\GameTech\GameTech\bin\Owin.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Razor.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.dll
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+D:\DesSis\GameTech\GameTech\bin\WebGrease.dll
+D:\DesSis\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+D:\DesSis\GameTech\GameTech\bin\EntityFramework.xml
+D:\DesSis\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.xml
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+D:\DesSis\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DesSis\GameTech\GameTech\bin\Newtonsoft.Json.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Optimization.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Razor.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Helpers.xml
+D:\DesSis\GameTech\GameTech\bin\System.Web.Mvc.xml
+D:\DesSis\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+D:\DesSis\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+D:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+D:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+D:\DesSis\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+D:\DesSis\GameTech\GameTech\obj\Debug\GameTech.dll
+D:\DesSis\GameTech\GameTech\obj\Debug\GameTech.pdb
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\GameTech.dll.config
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\GameTech.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\GameTech.pdb
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csc.exe
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csc.rsp
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csi.exe
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\csi.rsp
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\vbc.exe
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\EntityFramework.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Owin.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\WebGrease.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\EntityFramework.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Optimization.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\obj\Debug\GameTech.dll
+C:\Users\Aluno\Downloads\GameTech\GameTech\GameTech\obj\Debug\GameTech.pdb
+E:\GameTech-1\GameTech\GameTech\bin\GameTech.dll.config
+E:\GameTech-1\GameTech\GameTech\bin\GameTech.dll
+E:\GameTech-1\GameTech\GameTech\bin\GameTech.pdb
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csc.exe
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csc.exe.config
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csc.rsp
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csi.exe
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csi.exe.config
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\csi.rsp
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Console.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\vbc.exe
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\vbc.exe.config
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\vbc.rsp
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+E:\GameTech-1\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+E:\GameTech-1\GameTech\GameTech\bin\Antlr3.Runtime.dll
+E:\GameTech-1\GameTech\GameTech\bin\EntityFramework.dll
+E:\GameTech-1\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+E:\GameTech-1\GameTech\GameTech\bin\Newtonsoft.Json.dll
+E:\GameTech-1\GameTech\GameTech\bin\Owin.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Helpers.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Mvc.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Optimization.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Razor.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.dll
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+E:\GameTech-1\GameTech\GameTech\bin\WebGrease.dll
+E:\GameTech-1\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+E:\GameTech-1\GameTech\GameTech\bin\EntityFramework.xml
+E:\GameTech-1\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.xml
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GameTech-1\GameTech\GameTech\bin\Newtonsoft.Json.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Optimization.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Razor.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Helpers.xml
+E:\GameTech-1\GameTech\GameTech\bin\System.Web.Mvc.xml
+E:\GameTech-1\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+E:\GameTech-1\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+E:\GameTech-1\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+E:\GameTech-1\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+E:\GameTech-1\GameTech\GameTech\obj\Debug\GameTech.dll
+E:\GameTech-1\GameTech\GameTech\obj\Debug\GameTech.pdb
+E:\GameTech-1\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\GameTech.dll.config
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\GameTech.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\GameTech.pdb
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csc.rsp
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csi.exe
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\csi.rsp
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\EntityFramework.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Owin.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\WebGrease.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\EntityFramework.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Optimization.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+C:\Users\Aluno\Desktop\GameTech\GameTech\obj\Debug\GameTech.dll
+C:\Users\Aluno\Desktop\GameTech\GameTech\obj\Debug\GameTech.pdb
+D:\GameTech\GameTech\bin\GameTech.dll.config
+D:\GameTech\GameTech\bin\GameTech.dll
+D:\GameTech\GameTech\bin\GameTech.pdb
+D:\GameTech\GameTech\bin\roslyn\csc.exe
+D:\GameTech\GameTech\bin\roslyn\csc.exe.config
+D:\GameTech\GameTech\bin\roslyn\csc.rsp
+D:\GameTech\GameTech\bin\roslyn\csi.exe
+D:\GameTech\GameTech\bin\roslyn\csi.exe.config
+D:\GameTech\GameTech\bin\roslyn\csi.rsp
+D:\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+D:\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+D:\GameTech\GameTech\bin\roslyn\System.Console.dll
+D:\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+D:\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+D:\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+D:\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+D:\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+D:\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GameTech\GameTech\bin\roslyn\vbc.exe
+D:\GameTech\GameTech\bin\roslyn\vbc.exe.config
+D:\GameTech\GameTech\bin\roslyn\vbc.rsp
+D:\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+D:\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+D:\GameTech\GameTech\bin\Antlr3.Runtime.dll
+D:\GameTech\GameTech\bin\EntityFramework.dll
+D:\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+D:\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GameTech\GameTech\bin\Microsoft.Owin.dll
+D:\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+D:\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+D:\GameTech\GameTech\bin\Newtonsoft.Json.dll
+D:\GameTech\GameTech\bin\Owin.dll
+D:\GameTech\GameTech\bin\System.Web.Helpers.dll
+D:\GameTech\GameTech\bin\System.Web.Mvc.dll
+D:\GameTech\GameTech\bin\System.Web.Optimization.dll
+D:\GameTech\GameTech\bin\System.Web.Razor.dll
+D:\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+D:\GameTech\GameTech\bin\System.Web.Webpages.dll
+D:\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+D:\GameTech\GameTech\bin\WebGrease.dll
+D:\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+D:\GameTech\GameTech\bin\EntityFramework.xml
+D:\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+D:\GameTech\GameTech\bin\Microsoft.Owin.xml
+D:\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+D:\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GameTech\GameTech\bin\Newtonsoft.Json.xml
+D:\GameTech\GameTech\bin\System.Web.Optimization.xml
+D:\GameTech\GameTech\bin\System.Web.Razor.xml
+D:\GameTech\GameTech\bin\System.Web.Webpages.xml
+D:\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+D:\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+D:\GameTech\GameTech\bin\System.Web.Helpers.xml
+D:\GameTech\GameTech\bin\System.Web.Mvc.xml
+D:\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+D:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+D:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+D:\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+D:\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+D:\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+D:\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+D:\GameTech\GameTech\obj\Debug\GameTech.dll
+D:\GameTech\GameTech\obj\Debug\GameTech.pdb
+E:\GameTech\GameTech\bin\GameTech.dll.config
+E:\GameTech\GameTech\bin\GameTech.dll
+E:\GameTech\GameTech\bin\GameTech.pdb
+E:\GameTech\GameTech\bin\roslyn\csc.exe
+E:\GameTech\GameTech\bin\roslyn\csc.exe.config
+E:\GameTech\GameTech\bin\roslyn\csc.rsp
+E:\GameTech\GameTech\bin\roslyn\csi.exe
+E:\GameTech\GameTech\bin\roslyn\csi.exe.config
+E:\GameTech\GameTech\bin\roslyn\csi.rsp
+E:\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+E:\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+E:\GameTech\GameTech\bin\roslyn\System.Console.dll
+E:\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+E:\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+E:\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+E:\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+E:\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+E:\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GameTech\GameTech\bin\roslyn\vbc.exe
+E:\GameTech\GameTech\bin\roslyn\vbc.exe.config
+E:\GameTech\GameTech\bin\roslyn\vbc.rsp
+E:\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+E:\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+E:\GameTech\GameTech\bin\Antlr3.Runtime.dll
+E:\GameTech\GameTech\bin\EntityFramework.dll
+E:\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+E:\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GameTech\GameTech\bin\Microsoft.Owin.dll
+E:\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+E:\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+E:\GameTech\GameTech\bin\Newtonsoft.Json.dll
+E:\GameTech\GameTech\bin\Owin.dll
+E:\GameTech\GameTech\bin\System.Web.Helpers.dll
+E:\GameTech\GameTech\bin\System.Web.Mvc.dll
+E:\GameTech\GameTech\bin\System.Web.Optimization.dll
+E:\GameTech\GameTech\bin\System.Web.Razor.dll
+E:\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+E:\GameTech\GameTech\bin\System.Web.Webpages.dll
+E:\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+E:\GameTech\GameTech\bin\WebGrease.dll
+E:\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+E:\GameTech\GameTech\bin\EntityFramework.xml
+E:\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+E:\GameTech\GameTech\bin\Microsoft.Owin.xml
+E:\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+E:\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GameTech\GameTech\bin\Newtonsoft.Json.xml
+E:\GameTech\GameTech\bin\System.Web.Optimization.xml
+E:\GameTech\GameTech\bin\System.Web.Razor.xml
+E:\GameTech\GameTech\bin\System.Web.Webpages.xml
+E:\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+E:\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+E:\GameTech\GameTech\bin\System.Web.Helpers.xml
+E:\GameTech\GameTech\bin\System.Web.Mvc.xml
+E:\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+E:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+E:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+E:\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+E:\GameTech\GameTech\obj\Debug\GameTech.csprojResolveAssemblyReference.cache
+E:\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+E:\GameTech\GameTech\obj\Debug\GameTech.dll
+E:\GameTech\GameTech\obj\Debug\GameTech.pdb
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\GameTech.dll.config
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\GameTech.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\GameTech.pdb
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csc.exe
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csc.exe.config
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csc.rsp
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csi.exe
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csi.exe.config
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\csi.rsp
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Console.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\vbc.exe
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\vbc.exe.config
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\vbc.rsp
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Antlr3.Runtime.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\EntityFramework.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Newtonsoft.Json.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Owin.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Helpers.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Mvc.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Optimization.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Razor.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\WebGrease.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\EntityFramework.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Newtonsoft.Json.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Optimization.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Razor.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Helpers.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\System.Web.Mvc.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\obj\Debug\GameTech.csprojAssemblyReference.cache
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\obj\Debug\GameTech.csproj.CoreCompileInputs.cache
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\obj\Debug\GameTech.csproj.CopyComplete
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\obj\Debug\GameTech.dll
+C:\Users\Joao Marcos\Desktop\GameTech\GameTech\obj\Debug\GameTech.pdb

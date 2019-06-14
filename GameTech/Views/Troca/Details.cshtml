@@ -1,0 +1,57 @@
+﻿@model GameTech.Models.Prod_Troca
+
+@{
+    ViewBag.Title = "Detalhes Troca";
+}
+
+
+<h2 style="color:white; background-color:black; border-style:solid; width:15%; text-align:center">Detalhes</h2>
+
+<div style="color:white; background-color:black; border-style:solid; width:30%; margin-left:40%; text-align:center">
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UsuarioAtual.NomeUsu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTPlat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTPlat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdTGen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdTGen)
+        </dd>
+
+        @*<dt>
+                @Html.DisplayNameFor(model => model.Trocar)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Trocar)
+            </dd>*@
+
+    </dl>
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ProdTID }) |
+        @Html.ActionLink("Voltar", "VisualizarProdutosTroca")
+    </div>
+</div>

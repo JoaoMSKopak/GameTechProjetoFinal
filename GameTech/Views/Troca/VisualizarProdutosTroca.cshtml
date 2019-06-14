@@ -1,0 +1,59 @@
+﻿@model IEnumerable<GameTech.Models.Prod_Troca>
+
+@{
+    ViewBag.Title = "Produtos para Troca";
+}
+
+<h2>Meus produtos</h2>
+
+<p>
+    @Html.ActionLink("Voltar para Trocas", "Index", null, new { @class = "btn btn-dark" }) |
+    @Html.ActionLink("Adicionar Produto", "Create", null, new { @class = "btn btn-dark" })
+</p>
+<table class="table" style="color:white; background-color:black; border-style:solid">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.UsuarioAtual.NomeUsu)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.ProdTNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdTPlat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProdTGen)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Trocar)
+            </th>*@
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.UsuarioAtual.NomeUsu)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTNome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTPlat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdTGen)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Trocar)
+                </td>*@
+            <td>
+                @Html.ActionLink("Editar Produto", "Edit", new { id = item.ProdTID }) |
+                @Html.ActionLink("Detalhes do produto", "Details", new { id = item.ProdTID }) |
+                @Html.ActionLink("Deletar produto", "Delete", new { id = item.ProdTID })
+            </td>
+        </tr>
+    }
+
+</table>
